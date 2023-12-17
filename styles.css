@@ -1,0 +1,33 @@
+
+body {
+    padding-top: 56px;
+}
+
+.navbar {
+    background-color: #3498db;
+}
+
+.product {
+    border: 1px solid #111010;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+}
+
+.product img {
+    max-height: 150px; 
+    object-fit: cover; 
+}
+
+footer {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.logo {
+    max-height: 50px;
+    margin-right: 20px;
+}
